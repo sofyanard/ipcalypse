@@ -1,0 +1,6 @@
+@ipcalypse_HostAddress = http://localhost:5116
+
+GET {{ipcalypse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
